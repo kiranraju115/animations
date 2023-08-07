@@ -1,0 +1,122 @@
+.header {
+    text-align: center;
+}
+#outerdiv {
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-around;
+    
+    
+}
+
+#div1 {
+    background-color: goldenrod;
+    
+    color:rgb(237, 231, 231);
+    
+    text-align: center;
+    width:250px;
+    height:150px;
+    transition: 4s ease;
+   
+    position: relative;
+}
+#div2 {
+    background-color: red;
+    color: white;
+  
+    text-align: center;
+    
+    height:150px;
+    transition: 4s ease;
+  
+   
+}
+#div3 {
+    background-color: yellowgreen;
+    color: white;
+  
+    text-align: center;
+    width:250px;
+    height:150px;
+    transition: 4s ease;
+    
+}
+#outerdiv2 {
+    background-image: url(2a386a_073e0fdf802243b29490e49912c126bcf000\ \(1\).webp);
+    background-size: cover;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#moto {
+    color: white;
+    font-size: 400px;
+    transition: 0.5s ease-in ;
+}
+#outerdiv3 {
+    background-color: #89ceb7;
+    height:50vh;
+    text-align: center;
+
+}
+.wordeffects {
+    display: none;
+    color:white;
+    text-decoration: underline;
+    
+}
+.para1 {
+    display: none;
+    color:white;
+    font-size: 24px;
+}
+.para2 {
+    display: none;
+    color:white;
+    font-size: 24px;
+}
+#lastdiv {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#ldiv1 {
+    background-color: goldenrod;
+    
+    color:rgb(237, 231, 231);
+    
+    text-align: center;
+    width:250px;
+    height:150px;
+    transition: 2s ease-in-out;
+    transform: rotateY(180deg)
+    
+}
+#ldiv2 {
+    background-color: goldenrod;
+    
+    color:rgb(237, 231, 231);
+    
+    text-align: center;
+    width:250px;
+    height:150px;
+    transition: 2s ease-in-out;
+    transform: rotateY(180deg)
+    
+}
+#ldiv3 {
+    background-color: goldenrod;
+    
+    color:rgb(237, 231, 231);
+    
+    text-align: center;
+    width:250px;
+    height:150px;
+    transition: 2s ease-in-out;
+    transform: rotateY(180deg)
+    
+}
